@@ -1,1 +1,3 @@
-Weather App using Html, css, javascript and openWeatherMapApi.
+Weather App using Html, CSS, javascript, and openWeatherMapApi.
+
+    https://weatherappbasicjs.netlify.app/
